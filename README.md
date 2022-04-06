@@ -1,2 +1,4 @@
-# web-app
-security-team
+# maven-project
+
+Simple Maven Project conflict
+
